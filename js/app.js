@@ -3,6 +3,7 @@
 
 var image = document.getElementsByClassName('animal');
 
+// 3. to apply filters to the images
 var select = document.getElementById('select');
 
     select.onchange = function() {
